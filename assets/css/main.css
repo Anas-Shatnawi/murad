@@ -1451,6 +1451,11 @@ section,
   color: var(--accent-color);
 }
 
+.course-details-list li {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
